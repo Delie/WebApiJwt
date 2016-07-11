@@ -12,7 +12,7 @@ using System.Text;
 
 /// <summary>
 /// Written by Andrew Delicata
-/// https://github.com/Delie/WebApiJwt
+/// https://github.com/Delie
 /// </summary>
 namespace WebApiJwt
 {
