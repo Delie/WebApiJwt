@@ -1,3 +1,3 @@
-﻿src/WebApiJwt/bin
-src/WebApiJwt/obj
-.vs
+﻿src/webapijwt/bin/
+src/webapijwt/obj/
+.vs/

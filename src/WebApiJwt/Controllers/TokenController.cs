@@ -21,7 +21,7 @@ namespace WebApiJwt.Controllers
 			public string Username { get; set; }
 			public string Password { get; set; }
 		}
-
+		
 		[HttpPost]
 		public dynamic Post([FromBody] TokenCredentials req) {
 			string token = "";
