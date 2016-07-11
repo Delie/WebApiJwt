@@ -10,6 +10,10 @@ using System;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 
+/// <summary>
+/// Written by Andrew Delicata
+/// https://github.com/Delie/WebApiJwt
+/// </summary>
 namespace WebApiJwt
 {
 	public class Startup

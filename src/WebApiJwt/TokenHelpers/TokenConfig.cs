@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
+/// <summary>
+/// Written by Andrew Delicata
+/// https://github.com/Delie/WebApiJwt
+/// </summary>
 namespace WebApiJwt.TokenHelpers {
 	public class TokenConfig {
 		public readonly string Issuer;

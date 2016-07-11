@@ -7,6 +7,10 @@ using System.Threading.Tasks;
 
 using WebApiJwt.TokenHelpers;
 
+/// <summary>
+/// Written by Andrew Delicata 
+/// https://github.com/Delie/WebApiJwt
+/// </summary>
 namespace WebApiJwt.Controllers
 {
 	[Route("api/[controller]")]

@@ -6,8 +6,10 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Authorization;
 
-using WebApiJwt.TokenHelpers;
-
+/// <summary>
+/// Written by Andrew Delicata
+/// https://github.com/Delie/WebApiJwt
+/// </summary>
 namespace WebApiJwt.Controllers
 {
 	[Route("api/[controller]")]
@@ -15,12 +17,6 @@ namespace WebApiJwt.Controllers
 	{
 		[HttpGet]
 		public IEnumerable<string> Get() {
-			//int? mofo = HttpContext.Session.GetInt32("mofo");
-			//if (mofo == null) mofo = 0;
-			//mofo = mofo + 1;
-			//HttpContext.Session.SetInt32("mofo", (int)mofo);
-			//return new string[] { "mofo", mofo.ToString() };
-
 			return new string[] { "This is the default GUEST root", "hooray!" };
 		}
 
