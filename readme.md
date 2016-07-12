@@ -12,7 +12,7 @@ Just use [Authorize] on your web api methods, and .net will check that the JWT i
 
 You can practice sending/receiving tokens by using a tool such as Postman or Telerik Fiddler.
 
-## This is **NOT production-ready**
+## This is **NOT production-ready!**
 
 You will need to:
 
@@ -26,9 +26,5 @@ You're free to use as you please!
 Cheers,
 
 Andy  
-Freelance .NET and JavaScript programmer based in Salisbury, UK  
+Freelance .NET and JavaScript programmer based in Salisbury, UK.  
 https://github.com/Delie/WebApiJwt
-<<<<<<< HEAD
-Freelance .NET and JavaScript programmer based in Salisbury, UK.
-=======
->>>>>>> 3474c3b69b1311b12613d31da1bb4f4c72f5081d
