@@ -27,4 +27,4 @@ Cheers,
 
 Andy
 https://github.com/Delie/WebApiJwt
-Freelance .NET and JavaScript programmer based in Salisbury, UK
+Freelance .NET and JavaScript programmer based in Salisbury, UK.
