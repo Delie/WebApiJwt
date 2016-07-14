@@ -5,3 +5,4 @@ src/webapijwt/.vs/
 **/.vscode/
 **/*.vspscc
 **/*.xproj.user
+**/*.suo
