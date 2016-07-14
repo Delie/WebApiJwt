@@ -1,3 +1,7 @@
 ﻿src/webapijwt/bin/
 src/webapijwt/obj/
-.vs/
+src/webapijwt/.vs/
+**/.vs/
+**/.vscode/
+**/*.vspscc
+**/*.xproj.user
